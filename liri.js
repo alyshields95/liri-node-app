@@ -8,3 +8,5 @@ var spotify = new Spotify(keys.spotify);
 //user inputs.
 var userOption = process.argv[2];
 var inputParameter = process.argv[3];
+
+UserInputs(userOption, inputParameter);
