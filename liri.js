@@ -33,12 +33,12 @@ function UserInputs(userOption, inputParameter) {
 function showConcertInfo(inputParameter) {
     var queryUrl = "https://rest.bandsintown.com/artists/" + inputParameter + "/events?app_id=codingbootcamp";
     request(queryUrl, function (error, response, body) {
-        // If the request is successful
+        // If successful
         if (!error && response.statusCode === 200) {
             var concerts = JSON.parse(body);
             for (var i = 0; i < concerts.length; i++) {
                 console.log("**********EVENT INFO*********");
-                fs.appendFileSync("log.txt", "**********EVENT INFO*********\n"); //Append in log.txt file
+                fs.appendFileSync("log.txt", "**********EVENT INFO*********\n"); //Appendnpm i dotenv log.txt file
                 console.log(i);
                 fs.appendFileSync("log.txt", i + "\n");
                 console.log("Name of the Venue: " + concerts[i].venue.name);

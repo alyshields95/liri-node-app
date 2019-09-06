@@ -945,4 +945,375 @@ artist(s): Scott Bradlee's Postmodern Jukebox
 song name: I Want It That Way
 preview song: https://p.scdn.co/mp3-preview/bb5d73d1bfe8a8b38cd5278112c7022599464c67?cid=7bd084ad051743f68035613487473eb8
 album: I Want It That Way
-artist(s): Kyle Olthoff
+artist(s): Kyle Olthoff**********SONG INFO*********
+0
+song name: Baby
+preview song: null
+album: Baby
+artist(s): Quality Control
+*****************************
+**********SONG INFO*********
+1
+song name: Suge
+preview song: null
+album: Baby On Baby
+artist(s): DaBaby
+*****************************
+**********SONG INFO*********
+2
+song name: Bad Bad Bad (feat. Lil Baby)
+preview song: https://p.scdn.co/mp3-preview/909f15e56869916ec4a0b8bc846c6282fab32a44?cid=e27df43704d24056a1c257185fc49061
+album: So Much Fun
+artist(s): Young Thug
+*****************************
+**********SONG INFO*********
+3
+song name: Goin Baby
+preview song: null
+album: Baby On Baby
+artist(s): DaBaby
+*****************************
+**********SONG INFO*********
+4
+song name: Baby Sitter (feat. Offset)
+preview song: null
+album: Baby On Baby
+artist(s): DaBaby
+*****************************
+**********SONG INFO*********
+5
+song name: Drip Too Hard (Lil Baby & Gunna)
+preview song: null
+album: Drip Harder
+artist(s): Lil Baby
+*****************************
+**********SONG INFO*********
+6
+song name: Baby Birkin
+preview song: https://p.scdn.co/mp3-preview/4ed68006ecd1fb0bb834b15fc289b2d55fcd43b8?cid=e27df43704d24056a1c257185fc49061
+album: Drip or Drown 2
+artist(s): Gunna
+*****************************
+**********SONG INFO*********
+7
+song name: Close Friends (Lil Baby & Gunna)
+preview song: null
+album: Drip Harder
+artist(s): Lil Baby
+*****************************
+**********SONG INFO*********
+8
+song name: Baby (Lil Baby feat. DaBaby)
+preview song: null
+album: Quality Control: Control The Streets Volume 2
+artist(s): Quality Control
+*****************************
+**********SONG INFO*********
+9
+song name: Yes Indeed
+preview song: null
+album: Harder Than Ever
+artist(s): Lil Baby
+*****************************
+**********SONG INFO*********
+10
+song name: Lil Baby
+preview song: https://p.scdn.co/mp3-preview/9c7b6f792fff0f2be6e7cc094cf44c1d409fa62b?cid=e27df43704d24056a1c257185fc49061
+album: So Much Fun
+artist(s): Young Thug
+*****************************
+**********SONG INFO*********
+11
+song name: Buff Baby
+preview song: https://p.scdn.co/mp3-preview/df80e5a8c9e38a8ec712a0d81bf89cf3e9120bfd?cid=e27df43704d24056a1c257185fc49061
+album: tobi lou and the Loop - EP
+artist(s): tobi lou
+*****************************
+**********SONG INFO*********
+12
+song name: On The Road (feat. Meek Mill & Lil Baby)
+preview song: null
+album: Hollywood's Bleeding
+artist(s): Post Malone
+*****************************
+**********SONG INFO*********
+13
+song name: Cash Shit (feat. DaBaby)
+preview song: https://p.scdn.co/mp3-preview/887df8fd3f1a55e6b707e48ac3760d6e8c118184?cid=e27df43704d24056a1c257185fc49061
+album: Fever
+artist(s): Megan Thee Stallion
+*****************************
+**********SONG INFO*********
+14
+song name: Out The Mud
+preview song: null
+album: Out The Mud
+artist(s): Lil Baby
+*****************************
+**********SONG INFO*********
+15
+song name: Hot Shower
+preview song: https://p.scdn.co/mp3-preview/9f63076bc91da7435bdd87c68b465a9c25c382bc?cid=e27df43704d24056a1c257185fc49061
+album: The Big Day
+artist(s): Chance the Rapper
+*****************************
+**********SONG INFO*********
+16
+song name: Baby Shark
+preview song: https://p.scdn.co/mp3-preview/7fba543ccc085d6399714adf93517fc467086e2d?cid=e27df43704d24056a1c257185fc49061
+album: Pinkfong Animal Songs
+artist(s): Pinkfong
+*****************************
+**********SONG INFO*********
+17
+song name: Pure Cocaine
+preview song: null
+album: Street Gossip
+artist(s): Lil Baby
+*****************************
+**********SONG INFO*********
+18
+song name: Sold Out Dates (feat. Lil Baby)
+preview song: https://p.scdn.co/mp3-preview/aaeb04129b4527ccbcec5b4617ef380d98c840d4?cid=e27df43704d24056a1c257185fc49061
+album: Sold Out Dates (feat. Lil Baby)
+artist(s): Gunna
+*****************************
+**********SONG INFO*********
+19
+song name: Never Recover (Lil Baby & Gunna, Drake)
+preview song: null
+album: Drip Harder
+artist(s): Lil Baby
+*****************************
+**********SONG INFO*********
+0
+song name: Huapango BabyShark
+preview song: https://p.scdn.co/mp3-preview/bfcce5c912bc621bcaf7b83d49ddab9af6465e4f?cid=e27df43704d24056a1c257185fc49061
+album: Huapango BabyShark
+artist(s): Epoca Norteña
+*****************************
+**********SONG INFO*********
+1
+song name: BabyShark
+preview song: https://p.scdn.co/mp3-preview/ff608490deba153866c404440b5cd745c8cbc167?cid=e27df43704d24056a1c257185fc49061
+album: BabyShark
+artist(s): Bu|rrell
+*****************************
+**********EVENT INFO*********
+0
+Name of the Venue: Crossroads
+Venue Location: Garwood
+Date of the Event: 2019-09-27T20:00:00
+*****************************
+**********EVENT INFO*********
+1
+Name of the Venue: New Cross Inn
+Venue Location: London
+Date of the Event: 2019-10-12T16:00:00
+*****************************
+**********EVENT INFO*********
+2
+Name of the Venue: PLAYHOUSE Whitley Bay
+Venue Location: Whitley Bay
+Date of the Event: 2019-11-30T13:00:00
+*****************************
+**********EVENT INFO*********
+3
+Name of the Venue: PLAYHOUSE Whitley Bay
+Venue Location: Whitley Bay
+Date of the Event: 2019-12-01T13:00:00
+*****************************
+**********EVENT INFO*********
+4
+Name of the Venue: PLAYHOUSE Whitley Bay
+Venue Location: Whitley Bay
+Date of the Event: 2019-12-03T13:30:00
+*****************************
+**********EVENT INFO*********
+5
+Name of the Venue: PLAYHOUSE Whitley Bay
+Venue Location: Whitley Bay
+Date of the Event: 2019-12-04T13:30:00
+*****************************
+**********EVENT INFO*********
+6
+Name of the Venue: PLAYHOUSE Whitley Bay
+Venue Location: Whitley Bay
+Date of the Event: 2019-12-05T10:00:00
+*****************************
+**********EVENT INFO*********
+7
+Name of the Venue: PLAYHOUSE Whitley Bay
+Venue Location: Whitley Bay
+Date of the Event: 2019-12-06T13:30:00
+*****************************
+**********EVENT INFO*********
+8
+Name of the Venue: PLAYHOUSE Whitley Bay
+Venue Location: Whitley Bay
+Date of the Event: 2019-12-07T16:30:00
+*****************************
+**********EVENT INFO*********
+9
+Name of the Venue: PLAYHOUSE Whitley Bay
+Venue Location: Whitley Bay
+Date of the Event: 2019-12-08T16:30:00
+*****************************
+**********EVENT INFO*********
+10
+Name of the Venue: PLAYHOUSE Whitley Bay
+Venue Location: Whitley Bay
+Date of the Event: 2019-12-10T10:00:00
+*****************************
+**********EVENT INFO*********
+11
+Name of the Venue: PLAYHOUSE Whitley Bay
+Venue Location: Whitley Bay
+Date of the Event: 2019-12-11T19:00:00
+*****************************
+**********EVENT INFO*********
+12
+Name of the Venue: PLAYHOUSE Whitley Bay
+Venue Location: Whitley Bay
+Date of the Event: 2019-12-12T10:00:00
+*****************************
+**********EVENT INFO*********
+13
+Name of the Venue: PLAYHOUSE Whitley Bay
+Venue Location: Whitley Bay
+Date of the Event: 2019-12-13T19:00:00
+*****************************
+**********EVENT INFO*********
+14
+Name of the Venue: PLAYHOUSE Whitley Bay
+Venue Location: Whitley Bay
+Date of the Event: 2019-12-14T19:00:00
+*****************************
+**********EVENT INFO*********
+15
+Name of the Venue: PLAYHOUSE Whitley Bay
+Venue Location: Whitley Bay
+Date of the Event: 2019-12-15T11:00:00
+*****************************
+**********EVENT INFO*********
+16
+Name of the Venue: PLAYHOUSE Whitley Bay
+Venue Location: Whitley Bay
+Date of the Event: 2019-12-17T10:00:00
+*****************************
+**********EVENT INFO*********
+17
+Name of the Venue: PLAYHOUSE Whitley Bay
+Venue Location: Whitley Bay
+Date of the Event: 2019-12-18T10:00:00
+*****************************
+**********EVENT INFO*********
+18
+Name of the Venue: PLAYHOUSE Whitley Bay
+Venue Location: Whitley Bay
+Date of the Event: 2019-12-19T10:00:00
+*****************************
+**********EVENT INFO*********
+19
+Name of the Venue: PLAYHOUSE Whitley Bay
+Venue Location: Whitley Bay
+Date of the Event: 2019-12-20T19:00:00
+*****************************
+**********EVENT INFO*********
+20
+Name of the Venue: PLAYHOUSE Whitley Bay
+Venue Location: Whitley Bay
+Date of the Event: 2019-12-21T19:00:00
+*****************************
+**********EVENT INFO*********
+21
+Name of the Venue: PLAYHOUSE Whitley Bay
+Venue Location: Whitley Bay
+Date of the Event: 2019-12-22T15:00:00
+*****************************
+**********EVENT INFO*********
+22
+Name of the Venue: PLAYHOUSE Whitley Bay
+Venue Location: Whitley Bay
+Date of the Event: 2019-12-23T15:00:00
+*****************************
+**********EVENT INFO*********
+23
+Name of the Venue: PLAYHOUSE Whitley Bay
+Venue Location: Whitley Bay
+Date of the Event: 2019-12-24T16:30:00
+*****************************
+**********EVENT INFO*********
+24
+Name of the Venue: PLAYHOUSE Whitley Bay
+Venue Location: Whitley Bay
+Date of the Event: 2019-12-26T13:00:00
+*****************************
+**********EVENT INFO*********
+25
+Name of the Venue: PLAYHOUSE Whitley Bay
+Venue Location: Whitley Bay
+Date of the Event: 2019-12-27T13:00:00
+*****************************
+**********EVENT INFO*********
+26
+Name of the Venue: PLAYHOUSE Whitley Bay
+Venue Location: Whitley Bay
+Date of the Event: 2019-12-28T16:30:00
+*****************************
+**********EVENT INFO*********
+27
+Name of the Venue: PLAYHOUSE Whitley Bay
+Venue Location: Whitley Bay
+Date of the Event: 2019-12-29T13:00:00
+*****************************
+**********EVENT INFO*********
+28
+Name of the Venue: PLAYHOUSE Whitley Bay
+Venue Location: Whitley Bay
+Date of the Event: 2019-12-30T16:30:00
+*****************************
+**********EVENT INFO*********
+29
+Name of the Venue: PLAYHOUSE Whitley Bay
+Venue Location: Whitley Bay
+Date of the Event: 2019-12-31T11:00:00
+*****************************
+**********EVENT INFO*********
+30
+Name of the Venue: PLAYHOUSE Whitley Bay
+Venue Location: Whitley Bay
+Date of the Event: 2020-01-02T13:00:00
+*****************************
+**********EVENT INFO*********
+31
+Name of the Venue: PLAYHOUSE Whitley Bay
+Venue Location: Whitley Bay
+Date of the Event: 2020-01-03T13:00:00
+*****************************
+**********EVENT INFO*********
+32
+Name of the Venue: PLAYHOUSE Whitley Bay
+Venue Location: Whitley Bay
+Date of the Event: 2020-01-04T16:30:00
+*****************************
+**********MOVIE INFO*********
+Title: In the Name of the Father
+Release Year: 1993
+IMDB Rating: 8.1
+Rotten Tomatoes Rating: 94%
+Country of Production: Ireland, UK
+Language: English
+Plot: A man's coerced confession to an IRA bombing he did not commit results in the imprisonment of his father as well. An English lawyer fights to free them.
+Actors: Alison Crosbie, Daniel Day-Lewis, Philip King, Emma Thompson
+*****************************
+**********MOVIE INFO*********
+Title: Frozen
+Release Year: 2013
+IMDB Rating: 7.5
+Rotten Tomatoes Rating: 90%
+Country of Production: USA
+Language: English, Norwegian
+Plot: When the newly-crowned Queen Elsa accidentally uses her power to turn things into ice to curse her home in infinite winter, her sister Anna teams up with a mountain man, his playful reindeer, and a snowman to change the weather condition.
+Actors: Kristen Bell, Idina Menzel, Jonathan Groff, Josh Gad
+*****************************
