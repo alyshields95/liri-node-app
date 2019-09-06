@@ -26,3 +26,19 @@ Output: The system will display a list of this song. It can result in multiple o
 Command 3: Run the movie-this command
 node liri.js movie-this <name of movie goes here>
 Output: The system will display information associated with this movie. See screen-shot 
+
+TECHNOLOGIES USED
+Git
+GitHub
+Javascript
+Nodejs
+APIs used:
+Bands in Town
+OMDB
+Node packages:
+AXIOS
+Node-Spotify-API
+Request
+Moment
+DotEnv
+
