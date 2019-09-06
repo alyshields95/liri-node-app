@@ -8,15 +8,15 @@
     },
     "repository": {
         "type": "git",
-        "url": "git+https://github.com/komalbatra/liri-node-app.git"
+        "url": "git+https://github.com/alyshields95/liri-node-app.git"
     },
     "keywords": [],
     "author": "",
     "license": "ISC",
     "bugs": {
-        "url": "https://github.com/komalbatra/liri-node-app/issues"
+        "url": "https://github.com/alyshields95/liri-node-app/issues"
     },
-    "homepage": "https://github.com/komalbatra/liri-node-app#readme",
+    "homepage": "https://github.com/alyshields95/liri-node-app#readme",
     "dependencies": {
         "dotenv": "^6.1.0",
         "moment": "^2.22.2",
