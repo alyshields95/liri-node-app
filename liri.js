@@ -26,7 +26,7 @@ function UserInputs(userOption, inputParameter) {
             showSomeInfo();
             break;
         default:
-            console.log("Invalid Option. Please type any of the following options: \nconcert-this \nspotify-this-song \nmovie-this \ndo-what-it-says")
+            console.log("invalid please use \nconcert-this \nspotify-this-song \nmovie-this \ndo-what-it-says")
     }
 }
 
