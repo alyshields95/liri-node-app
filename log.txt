@@ -1,162 +1,3 @@
-**********EVENT INFO*********
-0
-Name of the Venue: Mandalay Bay Events Center
-Venue Location: Las Vegas
-Date of the Event: 2018-12-30T19:00:48
-*****************************
-**********EVENT INFO*********
-1
-Name of the Venue: Mandalay Bay Events Center
-Venue Location: Las Vegas
-Date of the Event: 2018-12-31T19:00:28
-*****************************
-**********EVENT INFO*********
-2
-Name of the Venue: Brisbane Entertainment Centre
-Venue Location: Brisbane
-Date of the Event: 2019-02-19T19:00:50
-*****************************
-**********EVENT INFO*********
-3
-Name of the Venue: Qudos Bank Arena
-Venue Location: Sydney
-Date of the Event: 2019-02-21T19:00:51
-*****************************
-**********EVENT INFO*********
-4
-Name of the Venue: Rod Laver Arena
-Venue Location: Melbourne
-Date of the Event: 2019-02-22T19:00:13
-*****************************
-**********EVENT INFO*********
-5
-Name of the Venue: Tokyo Dome
-Venue Location: Tokyo
-Date of the Event: 2019-02-25T19:00:23
-*****************************
-**********EVENT INFO*********
-6
-Name of the Venue: Gocheok Sky Dome
-Venue Location: Seoul
-Date of the Event: 2019-02-27T19:00:33
-*****************************
-**********EVENT INFO*********
-7
-Name of the Venue: TBA
-Venue Location: Kaohsiung City
-Date of the Event: 2019-03-01T19:00:36
-*****************************
-**********EVENT INFO*********
-8
-Name of the Venue: TBA
-Venue Location: Macau
-Date of the Event: 2019-03-03T19:00:44
-*****************************
-**********EVENT INFO*********
-9
-Name of the Venue: SM Mall Of Asia
-Venue Location: Manila
-Date of the Event: 2019-03-05T19:00:07
-*****************************
-**********EVENT INFO*********
-10
-Name of the Venue: NATIONAL STADIUM
-Venue Location: Singapore
-Date of the Event: 2019-03-07T19:00:41
-*****************************
-**********EVENT INFO*********
-11
-Name of the Venue: CHALLENGER HALL
-Venue Location: Bangkok
-Date of the Event: 2019-03-09T19:00:34
-*****************************
-**********EVENT INFO*********
-12
-Name of the Venue: Mollenpark
-Venue Location: Aalborg
-Date of the Event: 2019-06-01T19:00:44
-*****************************
-**********EVENT INFO*********
-13
-Name of the Venue: Lanxess Arena
-Venue Location: Cologne
-Date of the Event: 2019-06-03T19:00:11
-*****************************
-**********EVENT INFO*********
-14
-Name of the Venue: O2 ARENA
-Venue Location: Prague
-Date of the Event: 2019-06-05T19:00:34
-*****************************
-**********EVENT INFO*********
-15
-Name of the Venue: Tauron Arena
-Venue Location: Kraków
-Date of the Event: 2019-06-06T19:00:29
-*****************************
-**********EVENT INFO*********
-16
-Name of the Venue: Ziggo Dome
-Venue Location: Amsterdam
-Date of the Event: 2019-06-10T19:00:09
-*****************************
-**********EVENT INFO*********
-17
-Name of the Venue: AccorHotels Arena
-Venue Location: Paris
-Date of the Event: 2019-06-11T19:00:06
-*****************************
-**********SONG INFO*********
-0
-song name: Hero
-preview song: https://p.scdn.co/mp3-preview/a86af6cfc8543b4acfdb57134147067550b1ef9f?cid=7bd084ad051743f68035613487473eb8
-album: Awake
-artist(s): Skillet
-*****************************
-**********SONG INFO*********
-1
-song name: Juke Box Hero
-preview song: https://p.scdn.co/mp3-preview/596f26d42b94be4ef06d7b63f4a02cbfd3e40c48?cid=7bd084ad051743f68035613487473eb8
-album: 4 [Expanded]
-artist(s): Foreigner
-*****************************
-**********SONG INFO*********
-2
-song name: Hero
-preview song: null
-album: Escape
-artist(s): Enrique Iglesias
-*****************************
-**********SONG INFO*********
-3
-song name: Hero
-preview song: https://p.scdn.co/mp3-preview/3d1f4e7938a250e489290ca27e1ebc9b511c1cf4?cid=7bd084ad051743f68035613487473eb8
-album: Loma Vista
-artist(s): Family of the Year
-*****************************
-**********SONG INFO*********
-4
-song name: Hero
-preview song: https://p.scdn.co/mp3-preview/7a73abc50d367941e3f6ef6018ac2d7573e1ebbc?cid=7bd084ad051743f68035613487473eb8
-album: Bawskee
-artist(s): Comethazine
-*****************************
-**********SONG INFO*********
-5
-song name: Death of a Hero
-preview song: https://p.scdn.co/mp3-preview/eaad275df098c2b1a38252d38f156d1b9461ce7c?cid=7bd084ad051743f68035613487473eb8
-album: Death of a Hero
-artist(s): Alec Benjamin
-*****************************
-**********SONG INFO*********
-6
-song name: My Hero
-preview song: https://p.scdn.co/mp3-preview/ea1fb01ec4f28f204b1591c2953d1f6c886941e2?cid=7bd084ad051743f68035613487473eb8
-album: The Colour And The Shape (Expanded Edition)
-artist(s): Foo Fighters
-*****************************
-**********SONG INFO*********
-7
 song name: Hero
 preview song: https://p.scdn.co/mp3-preview/cc03494b6954237706d6f2ac7b9ce189014f840a?cid=7bd084ad051743f68035613487473eb8
 album: Music Box
@@ -1808,4 +1649,17 @@ Date of the Event: 2020-03-03T20:30:00
 Name of the Venue: Grand Rex
 Venue Location: Paris
 Date of the Event: 2020-03-04T20:30:00
+*****************************
+**********MOVIE INFO*********
+Title: Frozen
+Release Year: 2013
+IMDB Rating: 7.5
+**********MOVIE INFO*********
+Title: Frozen
+Release Year: 2013
+IMDB Rating: 7.5
+Country of Production: USA
+Language: English, Norwegian
+Plot: When the newly-crowned Queen Elsa accidentally uses her power to turn things into ice to curse her home in infinite winter, her sister Anna teams up with a mountain man, his playful reindeer, and a snowman to change the weather condition.
+Actors: Kristen Bell, Idina Menzel, Jonathan Groff, Josh Gad
 *****************************
