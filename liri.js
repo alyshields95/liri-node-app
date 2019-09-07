@@ -94,11 +94,11 @@ function showSongInfo(inputParameter) {
 
 function showMovieInfo(inputParameter) {
     if (inputParameter === undefined) {
-        inputParameter = "Mr. Nobody"
+        inputParameter = "Friends"
         console.log("-----------------------");
         fs.appendFileSync("log.txt", "-----------------------\n");
-        console.log("If you haven't watched 'Mr. Nobody,' then you should: http://www.imdb.com/title/tt0485947/");
-        fs.appendFileSync("log.txt", "If you haven't watched 'Mr. Nobody,' then you should: http://www.imdb.com/title/tt0485947/" + "\n");
+        console.log("If you haven't watched 'Friends,' then you should: http://www.imdb.com/title/tt0485947/");
+        fs.appendFileSync("log.txt", "If you haven't watched 'Friends,' then you should: http://www.imdb.com/title/tt0485947/" + "\n");
         console.log("It's on Netflix!");
         fs.appendFileSync("log.txt", "It's on Netflix!\n");
     }
